@@ -10,7 +10,7 @@ namespace PS02_07
     {
         static void Main(string[] args)
         {
-
+            //Write a program that takes an array of numbers as input and outputs the sum of the numbers. 
         }
     }
 }

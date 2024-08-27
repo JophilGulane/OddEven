@@ -10,6 +10,7 @@ namespace PS02_05
     {
         static void Main(string[] args)
         {
+            //Write a program that takes a string as input and outputs the frequency of each character in the string. 
 
         }
     }
